@@ -14,3 +14,4 @@ We will have 10-15 mentors throughout the program, who will provide guidance to 
 And of course, it goes without saying, this will be free to participate. No participate will be charged anything. And we will most likely try to have a hiring drive towards the end as well, if possible, for those who want to work in the space
 
 If you are interested to join this program, then do apply here : https://airtable.com/shrV72pMoDWVqNSWP?123
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light.svg)](https://deepsource.io/gh/yashkim24/StackOverflow-assistant-bot/?ref=repository-badge)
